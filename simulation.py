@@ -1,3 +1,4 @@
+# Here, we import the random module to generate random IP addresses and numbers for our simulation.
 import random
 
 def generate_random_ip_address():
